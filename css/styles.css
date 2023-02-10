@@ -9,6 +9,10 @@ h1 {
     text-align: center;
 }
 
+html {
+    background-color: hsl(212, 45%, 89%);
+}
+
 p {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
@@ -33,7 +37,7 @@ p {
 .main-container {
     background-color: white;
     border-radius: 4%;
-    margin: 20% auto 20% auto;
+    margin: 10% auto 10% auto;
     padding: 15px 15px;
     width: 250px;
     max-height: fit-content;
